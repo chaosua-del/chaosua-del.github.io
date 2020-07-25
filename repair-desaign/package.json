@@ -19,6 +19,6 @@
   "dependencies": {
     "gulp-htmlmin": "^5.0.1",
     "gulp-tinypng-compress": "^1.2.5",
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
